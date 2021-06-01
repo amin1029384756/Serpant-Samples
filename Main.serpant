@@ -1,0 +1,9 @@
+Name Means "Amin"
+Age Means "13"
+Work Means "Programmer"
+
+IntroduceMySelf Means () Push Start
+Print("My Name Is " +  Name + "I Am " + Age + "Years Old!" + "I Work As A " + Work)
+End
+
+IntroduceMySelf();
